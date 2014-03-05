@@ -32,7 +32,10 @@ function bp_get_categories() {
 	$cat_col_three = array();
 	foreach ( $categories as $category )
 	{
-		$category_data = '<li><a href="' . get_category_link($category) . '">' . $category->name . '</a> (' . $category->count .')</li>';
+		if(!$category->category_parent > 0)
+		{
+			$category_data = '<li><a href="' . get_category_link($category) . '">' . $category->name . '</a> (' . $category->count .')</li>';
+		}
 		if($cat_display_count == 1)
 		{
 			$cat_col_one[] = $category_data;
