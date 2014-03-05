@@ -19,6 +19,8 @@ Using Marketplaces with Buddypress and BePro Listings:
 
 7. Whenever any Buddypress member(s) will create/edit a "Member Listing" he/she has the option to choose BePro Listings categories that are already created by admin. If listing is new, admin will have to approve that listing by publishing it, then this listing will apperar under Business Category that is assigned to that listing.
 
+
+
 Thank you to my friends :
 
 Rachana Texeira
