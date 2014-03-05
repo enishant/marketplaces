@@ -3,7 +3,7 @@ Marketplaces
 
 Buddypress Market Places with BePro Listings plugin. Shortcode [marketplaces] to display BePro Listings categories as marketplaces on page.
 
-Using Marketplaces with Buddypress and BePro Listings:.
+Using Marketplaces with Buddypress and BePro Listings:
 
 1. BuddyPress: BuddyPress is Social Networking, the WordPress way. Easily create a fully featured social network inside your WordPress.org powered site. Install Buddypress from http://www.buddypress.org.
 
