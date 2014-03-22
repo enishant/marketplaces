@@ -39,6 +39,7 @@ For everything you do to support and share while development.
 
 
 == Installation ==
+
 * BuddyPress: BuddyPress is Social Networking, the WordPress way. Easily create a fully featured social network inside your WordPress.org powered site. Install Buddypress from http://www.buddypress.org.
 
 * BePro Listings: BePro Listings allows you to list anything including, images, documents, audio, and videos on any page or post. Shortcodes & widgets help you to search, filter and showcase this information in various ways including google maps and multiple listing templates. Choose between our easy one page/shortcode setup with ajax features or configurable distributed architecture. Install BePro Listings from https://wordpress.org/plugins/bepro-listings.
@@ -46,15 +47,21 @@ For everything you do to support and share while development.
 * Install this Marketplaces plugin and activate it, after activating shortcode [marketplaces] can be used.
 
 == Frequently Asked Questions ==
+
 Write your questions and queries at [Support ](http://wordpress.org/support/plugin/marketplaces "Write your questions and queries ")
 
 == Screenshots ==
+
 1. BePro categories
+
 2. Adding shortcode to page
+
 3. Marketplaces page view
 
 == Changelog ==
+
 No recent changes
 
 == Upgrade Notice ==
+
 No new notices
